@@ -1,2 +1,2 @@
 # InteractivityWithJavaScript
-Coursera course - Interactivity with JavaScrpit
+Coursera course - Interactivity with JavaScript
